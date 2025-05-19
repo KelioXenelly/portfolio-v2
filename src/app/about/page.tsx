@@ -27,7 +27,7 @@ export default function About() {
         {...fadeInUp}
       >
         <p className="text-lg text-secondary max-w-3xl mx-auto text-center">
-          I'm someone with a background in Accounting and now focus on Information Systems and Technology. 
+          I&#39;m someone with a background in Accounting and now focus on Information Systems and Technology. 
           Currently, I study at ITB Sabda Setia and work as a Junior Internal Auditor and Document Controller, 
           managing audits and ISO documentation. I enjoy building web systems with Laravel, MySQL, and React 
           to solve real-world problems.
@@ -188,7 +188,7 @@ export default function About() {
                 <li>Assisting customers both in the showroom and via WhatsApp chat</li>
                 <li>Conducting product stock audits</li>
                 <li>Archiving transaction documents</li>
-                <li>Managing the company's social media accounts</li>
+                <li>Managing the company&#39;s social media accounts</li>
                 <li>Creating content for social media platforms using CapCut and Canva</li>
             </ul>
           </motion.div>

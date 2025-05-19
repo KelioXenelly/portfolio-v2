@@ -3,7 +3,7 @@ import { Project } from "@/types";
 
 export const projects: Project[] = [
     {
-        title: 'Portfolio Website Vesion 1',
+        title: 'Portfolio Website Version 1',
         description: 'My first portfolio website built with HTML, CSS, Javascript.',
         technologies: ['HTML', 'CSS', 'JavaScript'],
         githubLink: 'https://github.com/KelioXenelly/UTS-KelioXenelly-23110001-STI',
